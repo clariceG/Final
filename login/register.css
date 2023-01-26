@@ -1,0 +1,18 @@
+body{
+    background-image:url(/Final/images/login.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container{
+    width: 305px;
+    height: 590px;    
+    position: relative; 
+    left: 30%;
+    opacity: 82%;
+    border-radius: 1pc;
+    background-color: aliceblue;
+}
+.header{
+     text-align: center;
+}
